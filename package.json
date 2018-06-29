@@ -1,0 +1,22 @@
+{
+  "name": "untappdretriever",
+  "version": "1.0.0",
+  "description": "recieve information about a untappd user",
+  "main": "retriever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeConsemulder/untappdRetriever.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeConsemulder/untappdRetriever/issues"
+  },
+  "homepage": "https://github.com/MikeConsemulder/untappdRetriever#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
