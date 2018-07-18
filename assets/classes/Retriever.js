@@ -3,32 +3,20 @@ let RequestHandler = require("./RequestHandler");
 
 module.exports = class Retriever {
 
-    constructor() {
+    /**
+     * 
+     * @param {string} username 
+     */
+    constructor(username) {
 
         this.endPoints = {
             userInfo: 'user/info',
             userBeers: 'user/beers'
         }
 
-        this.username = 'onbijtkoek'
-
-        this.init();
-    }
-
-    init() {
-        //get the basic userinformation
-        this.getBasicUserInformation().then(userInfo => {
-
-            this.userInfo = userInfo;
-            console.log(this.userInfo);
-        });
-
-        //get the beers by user
-        this.getUserBeers().then(beerInfo => {
-
-            this.beerInfo = beerInfo;
-            console.log(this.beerInfo);
-        });
+        this.username = username;
+        this.getBasicUserInformation = this.getBasicUserInformation;
+        this.getUserBeers = this.getUserBeers;
     }
 
     getBasicUserInformation() {
@@ -46,14 +34,14 @@ module.exports = class Retriever {
         return request.doRequest();
     }
 
-    getUserBeers() {
+    getUserBeers(limit, offset) {
 
         let beerUrl = new UrlHandler({
             username: this.username,
             endpoint: this.endPoints.userBeers,
             params: {
-                limit: 50,
-                offset: 0
+                limit: limit,
+                offset: offset
             }
         });
 
