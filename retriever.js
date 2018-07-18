@@ -1,68 +1,55 @@
+const express = require('express');
+const app = express();
 const util = require('util')
 const Retriever = require("./assets/classes/Retriever");
 const retriever = new Retriever('onbijtkoek');
 
 
-//initialize the project
-init();
-let userInformation;
-let userBeers = [];
-let limit = 50;
-let offset = 0;
+app.get('/', (req, res) => res.send('Hello World!'))
 
-function init() {
+app.listen(3000, () => console.log('Example app listening on port 3000!'))
 
-    //first get the information about the user
-    getUserInformation();
-}
+// //initialize the project
+// init();
+// let userInformation;
+// let userBeers = [];
+// let limit = 50;
+// let offset = 0;
 
-function getUserInformation() {
+// function init() {
 
-    //get the basic userinformation
-    retriever.getBasicUserInformation().then(userInfo => {
+//     //first get the information about the user
+//     getUserInformation();
+// }
 
-        userInformation = stripUserInformation(userInfo);
-        //now get the information about the beers
-        getUserBeerInformation(userInformation.beerCount);
-    });
-}
+// function getUserInformation() {
 
-function getUserBeerInformation(totalAmountOfBeers) {
-    //get the beers by user
+//     //get the basic userinformation
+//     retriever.getBasicUserInformation().then(userInfo => {
 
-    retriever.getUserBeers(limit, offset).then(beerInfo => {
+//         userInformation = stripUserInformation(userInfo);
+//         //now get the information about the beers
+//         getUserBeerInformation(userInformation.beerCount);
+//     });
+// }
 
-        this.beerInfo = beerInfo;
-        console.log(this.beerInfo);
-    });
-}
+// function getUserBeerInformation(totalAmountOfBeers) {
+//     //get the beers by user
 
-function stripUserInformation(userObject) {
+//     retriever.getUserBeers(limit, offset).then(beerInfo => {
 
-    let user = userObject.response.user;
-    return {
-        firstName: user.first_name,
-        lastName: user.last_name,
-        userAvatar: user.user_avatar_hd,
-        beerCount: user.stats.total_checkins
-    };
-}
+//         this.beerInfo = beerInfo;
+//         console.log(this.beerInfo);
+//     });
+// }
 
-function getAllBeerInformation(){
+// function stripUserInformation(userObject) {
 
-    
-}
-
-
-//let test = new Retriever('hello world');
-
-// var fs = require('fs');
-
-
-// fs.writeFile("/tmp/test", "Hey there!", function(err) {
-//     if(err) {
-//         return console.log(err);
-//     }
-
-//     console.log("The file was saved!");
-// }); 
+//     let user = userObject.response.user;
+//     return {
+//         firstName: user.first_name,
+//         lastName: user.last_name,
+//         userAvatar: user.user_avatar_hd,
+//         beerCount: user.stats.total_checkins
+//     };
+// }
