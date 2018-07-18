@@ -1,13 +1,47 @@
 const express = require('express');
 const app = express();
 const util = require('util')
-const Retriever = require("./assets/classes/Retriever");
-const retriever = new Retriever('onbijtkoek');
+const bodyParser = require('body-parser');
 
 
-app.get('/', (req, res) => res.send('Hello World!'))
+//const Retriever = require("./assets/classes/Retriever");
+//const retriever = new Retriever('onbijtkoek');
 
-app.listen(3000, () => console.log('Example app listening on port 3000!'))
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json());
+
+var port = process.env.PORT || 8080;
+
+// ROUTES FOR OUR API
+var router = express.Router();
+
+router.route('/getbeers').get(function (req, res) {
+
+    let parameters = req.query;
+
+    if (typeof req.query.username === 'undefined') {
+
+        res.json({ message: 'no username defined' });
+        return;
+    }
+
+    res.json({ message: 'ok nice nice!' });
+
+});
+
+router.get('/', function (req, res) {
+    res.json({ message: 'hooray! welcome to our api!' });
+});
+
+// more routes for our API will happen here
+
+// REGISTER OUR ROUTES -------------------------------
+// all of our routes will be prefixed with /api
+app.use('/api', router);
+
+// START THE SERVER
+app.listen(port);
+console.log('server started on port: ' + port);
 
 // //initialize the project
 // init();
