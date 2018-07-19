@@ -57,7 +57,7 @@ function sendDataToClient(res, dataToSend, username) {
 
     //send data back to via api
     res.json({
-        message: `${username}'s information.`,
+        message: `${username}'s information`,
         data: dataToSend
     });
 }
