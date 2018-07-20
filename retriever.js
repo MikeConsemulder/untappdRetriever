@@ -3,9 +3,31 @@ const app = express();
 const util = require('util')
 const bodyParser = require('body-parser');
 const Retriever = require("./assets/classes/Retriever");
+const basicAuth = require('express-basic-auth');
+require('dotenv').config();
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
+
+//set basic authentication
+
+app.use(basicAuth({
+    authorizer: myAsyncAuthorizer,
+    authorizeAsync: true
+}))
+
+function myAsyncAuthorizer(username, password, cb) {
+    //get username and password from .env
+    let BasicAuthUsername = process.env.BASIC_AUTH_USERNAME;
+    let BasicAuthPassword = process.env.BASIC_AUTH_PASSWORD;
+
+    if (username === BasicAuthUsername && password === BasicAuthPassword) {
+
+        return cb(null, true);
+    }
+
+    return cb('Unauthorized, biatch', false)
+}
 
 var port = process.env.PORT || 8080;
 
@@ -15,6 +37,7 @@ var router = express.Router();
 app.use('/api', router);
 // START THE SERVER
 app.listen(port);
+
 
 console.log('server started on port: ' + port);
 
