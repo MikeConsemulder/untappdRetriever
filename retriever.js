@@ -3,7 +3,9 @@ const app = express();
 const util = require('util')
 const bodyParser = require('body-parser');
 const Retriever = require("./assets/classes/Retriever");
+const WebsiteScraper = require("./assets/classes/WebsiteScraper");
 const basicAuth = require('express-basic-auth');
+const cheerio = require('cheerio');
 require('dotenv').config();
 
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -52,13 +54,48 @@ router.route('/getbeers').get(function (req, res) {
         return;
     }
 
-    getAllInformation(username, res);
+    getAdditionalInformation(username, 628512108);
+    //getAllInformation(username, res);
 });
 
 router.get('/', function (req, res) {
     res.json({ message: 'hooray! welcome to our api! Now go away' });
 });
 
+
+function getAdditionalInformation(username, checkinId) {
+
+    websiteScraper = new WebsiteScraper(username, checkinId);
+    websiteScraper.getWebsiteData().then($ => {
+
+        let image = $('.image-big')[0].attribs['data-image'];
+        let location = $('.location').text();
+        let comment = $('.comment').text();
+        let serving = $('.serving').text();
+        let taggedFriends = $('.tagged-friends ul').find('li');
+        let friendsInfo = getFriendsInfo($, taggedFriends);
+
+    });
+}
+
+function getFriendsInfo($, friendsInfo) {
+
+    let friendsObject = [];
+    for (let i = 0; i < friendsInfo.length; i++) {
+
+        let username = $(friendsInfo[0]).find('a')[i].attribs['href'].replace('/user/', '');
+        let imageUrl = $(friendsInfo[0]).find('img')[i].attribs['src'];
+
+        friendsObject.push({
+            username: username,
+            imageUrl: imageUrl
+        });
+
+        console.log(username, imageUrl);
+    }
+
+    console.log(friendsObject);
+}
 
 function getAllInformation(username, res) {
 
@@ -122,6 +159,8 @@ function getUserBeerInformation(retriever, totalAmountOfBeers) {
 
 function stripBeerInformation(beersinfo) {
 
+    //  console.log(beersinfo);
+
     let infoArray = [];
 
     beersinfo.forEach(beerInfo => {
@@ -131,7 +170,8 @@ function stripBeerInformation(beersinfo) {
             beerName: beerInfo.beer.beer_name,
             rating: beerInfo.rating_score,
             style: beerInfo.beer.beer_style,
-            abv: beerInfo.beer.beer_abv
+            abv: beerInfo.beer.beer_abv,
+            checkinId: beerInfo.recent_checkin_id
         });
     });
 
