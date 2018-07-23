@@ -10,13 +10,12 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 //set basic authentication
-
 app.use(basicAuth({
-    authorizer: myAsyncAuthorizer,
+    authorizer: authorizer,
     authorizeAsync: true
 }))
 
-function myAsyncAuthorizer(username, password, cb) {
+function authorizer(username, password, cb) {
     //get username and password from .env
     let BasicAuthUsername = process.env.BASIC_AUTH_USERNAME;
     let BasicAuthPassword = process.env.BASIC_AUTH_PASSWORD;
@@ -29,6 +28,7 @@ function myAsyncAuthorizer(username, password, cb) {
     return cb('Unauthorized, biatch', false)
 }
 
+//set the port, if there is no env port use 8080 / heroku stuff,, you know
 var port = process.env.PORT || 8080;
 
 // ROUTES FOR OUR API
@@ -98,17 +98,44 @@ function getUserInformation(retriever) {
 }
 
 function getUserBeerInformation(retriever, totalAmountOfBeers) {
+
     //get the beers by user
+    let limit = 50;
+    let offset = 0;
+    let promiseArray = [];
+
     console.log(`try to collect all ${totalAmountOfBeers} beers`);
 
-    return new Promise((resolve, reject) => {
-        let limit = 50;
-        let offset = 0;
-        retriever.getUserBeers(limit, offset).then(beerInfo => {
+    for (offset; offset <= totalAmountOfBeers; offset += limit) {
 
-            resolve(beerInfo);
+        promiseArray.push(new Promise((resolve, reject) => {
+
+            retriever.getUserBeers(limit, offset).then(beerInfo => {
+
+                resolve(stripBeerInformation(beerInfo.response.beers.items));
+            });
+        }));
+    }
+
+    return Promise.all(promiseArray);
+}
+
+function stripBeerInformation(beersinfo) {
+
+    let infoArray = [];
+
+    beersinfo.forEach(beerInfo => {
+
+        infoArray.push({
+            firstHad: beerInfo.first_had,
+            beerName: beerInfo.beer.beer_name,
+            rating: beerInfo.rating_score,
+            style: beerInfo.beer.beer_style,
+            abv: beerInfo.beer.beer_abv
         });
     });
+
+    return infoArray;
 }
 
 function stripUserInformation(userObject) {
