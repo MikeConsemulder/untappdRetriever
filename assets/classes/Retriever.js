@@ -11,7 +11,8 @@ module.exports = class Retriever {
 
         this.endPoints = {
             userInfo: 'user/info',
-            userBeers: 'user/beers'
+            userBeers: 'user/beers',
+            userCheckins: 'user/checkins'
         }
 
         this.username = username;
@@ -34,15 +35,17 @@ module.exports = class Retriever {
         return request.doRequest();
     }
 
-    getUserBeers(limit, offset) {
+    getUserBeers(limit, max_id) {
+
+        let params = {
+            limit: limit
+        }
+        if (max_id !== "") params.max_id = max_id;
 
         let beerUrl = new UrlHandler({
             username: this.username,
-            endpoint: this.endPoints.userBeers,
-            params: {
-                limit: limit,
-                offset: offset
-            }
+            endpoint: this.endPoints.userCheckins,
+            params: params
         });
 
         let request = new RequestHandler({
