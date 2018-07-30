@@ -27,8 +27,22 @@ module.exports = class Checkins {
 
 			}
 
-			return this.beers;
+			//combine the arrays
+			return this._combineArray(this.beers);
 		});
+	}
+
+	_combineArray(objToCombine) {
+
+		let beerArray = [];
+		for (let i = 0; i < objToCombine.length; i++) {
+
+			objToCombine[i].forEach(beer => {
+				beerArray.push(beer);
+			});
+		}
+
+		return beerArray;
 	}
 
 	_stripBeerInformation(beersinfo) {

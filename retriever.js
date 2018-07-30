@@ -59,44 +59,40 @@ router.route('/getbeers').get(function (req, res) {
         return;
     }
 
-    getAllInformation(username, res);
+    getAllInformation(res);
 });
 
-function getAllInformation(username, res) {
+function getAllInformation(res) {
 
     let dataToSend = {};
+    //first, get the user information
     const user = new User(retriever);
     user.getUserInformation().then(userInfo => {
 
+        //save the user information
         dataToSend.userInformation = userInfo;
-        getCheckinInfo(userInfo.beerCount);
+        //second, get the beer information
+        getCheckinInfo(userInfo.beerCount).then(beerInfo => {
+
+            //save the beerinformation
+            dataToSend.beerInfo = beerInfo;
+            //send the beerinformation to the client
+            sendDataToClient(res, dataToSend);
+        });
     });
 }
 
 function getCheckinInfo(beerCount) {
 
     const checkins = new Checkins(retriever, beerCount);
-    checkins.getBeerInformation().then(beerInfo => {
+    return checkins.getBeerInformation().then(beerInfo => {
 
-        beerInfo;
+        return beerInfo;
     });
 }
 
-function saveToFile(obj) {
-
-    const content = JSON.stringify(obj);
-
-    fs.writeFile("beers2.json", content, 'utf8', function (err) {
-        if (err) {
-            return console.log(err);
-        }
-
-        console.log("The file was saved!");
-    });
-}
-
-function sendDataToClient(res, dataToSend, username) {
-
+function sendDataToClient(res, dataToSend) {
+    let username = dataToSend.userInformation.firstName;
     //send data back to via api
     res.json({
         message: `${username}'s information`,
