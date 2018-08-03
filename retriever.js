@@ -49,16 +49,17 @@ router.get('/', function (req, res) {
 
 router.route('/getbeers').get(function (req, res) {
 
+    //get the parameters from the request
     let parameters = req.query;
-    let username = parameters.username;
-    retriever = new Retriever(username);
+    let access_token = parameters.access_token;
+    //check if there is a access token provided
+    if (typeof access_token === 'undefined') {
 
-    if (typeof username === 'undefined') {
-
-        res.json({ message: 'no username defined' });
+        res.json({ message: 'no access token provided' });
         return;
     }
 
+    retriever = new Retriever(access_token);
     getAllInformation(res);
 });
 
