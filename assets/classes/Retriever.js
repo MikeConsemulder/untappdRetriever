@@ -3,11 +3,8 @@ let RequestHandler = require("./RequestHandler");
 
 module.exports = class Retriever {
 
-    /**
-     * 
-     * @param {string} username 
-     */
-    constructor(username) {
+
+    constructor(access_token) {
 
         this.endPoints = {
             userInfo: 'user/info',
@@ -15,7 +12,7 @@ module.exports = class Retriever {
             userCheckins: 'user/checkins'
         }
 
-        this.username = username;
+        this.access_token = access_token;
         this.getBasicUserInformation = this.getBasicUserInformation;
         this.getUserBeers = this.getUserBeers;
     }
@@ -23,7 +20,7 @@ module.exports = class Retriever {
     getBasicUserInformation() {
         //construct the url for the request
         let userUrl = new UrlHandler({
-            username: this.username,
+            access_token: this.access_token,
             endpoint: this.endPoints.userInfo
         });
 
@@ -43,7 +40,7 @@ module.exports = class Retriever {
         if (max_id !== "") params.max_id = max_id;
 
         let beerUrl = new UrlHandler({
-            username: this.username,
+            access_token: this.access_token,
             endpoint: this.endPoints.userCheckins,
             params: params
         });

@@ -19,16 +19,19 @@ module.exports = class Checkins {
 		return this.retriever.getUserBeers(limit, max_id).then(async beerInfo => {
 
 			this.remainingBeers = this.remainingBeers - beerInfo.response.checkins.count;
-			this.beers.push(beerInfo.response.checkins.items);
+			this.beers.push(this._stripBeerInformation(beerInfo.response.checkins.items));
 
 			if (this.remainingBeers > 0) {
 
 				await this.getBeerInformation(beerInfo.response.pagination.max_id);
-
+	
 			}
 
 			//combine the arrays
 			return this._combineArray(this.beers);
+		}).catch(errorMessage => {
+
+			console.log('error = ' + errorMessage);
 		});
 	}
 
@@ -53,12 +56,13 @@ module.exports = class Checkins {
 		beersinfo.forEach(beerInfo => {
 
 			infoArray.push({
-				firstHad: beerInfo.first_had,
+				created_at: beerInfo.created_at,
+				checkin_comment: beerInfo.checkin_comment,
 				beerName: beerInfo.beer.beer_name,
 				rating: beerInfo.rating_score,
 				style: beerInfo.beer.beer_style,
 				abv: beerInfo.beer.beer_abv,
-				checkinId: beerInfo.recent_checkin_id
+				checkinId: beerInfo.checkin_id
 			});
 		});
 
