@@ -12,7 +12,7 @@ module.exports = class UrlHandler {
                 client_secret: process.env.UNTAPPD_CLIENT_SECRET
             },
             endpoint: urlObject.endpoint,
-            username: urlObject.username,
+            access_token: urlObject.access_token,
             params: urlObject.params
         }
 
@@ -22,8 +22,7 @@ module.exports = class UrlHandler {
 
     constructRequestUrl(requestObject) {
 
-        let url = `${requestObject.baseUrl}/${requestObject.version}/${requestObject.endpoint}/${requestObject.username}?`;
-        url += `client_id=${requestObject.requestCredentials.client_id}&client_secret=${requestObject.requestCredentials.client_secret}`;
+        let url = `${requestObject.baseUrl}/${requestObject.version}/${requestObject.endpoint}?access_token=${requestObject.access_token}`;
         
         if (typeof requestObject.params !== 'undefined') {
 

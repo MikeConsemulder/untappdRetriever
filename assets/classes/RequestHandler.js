@@ -24,9 +24,13 @@ module.exports = class RequestHandler {
                 if (!error) {
                     //return the parsed body
                     resolve(JSON.parse(body));
-                }
+                } else {
 
-                reject(error);
+                    console.log('error');
+                    console.log(response, body, error);
+
+                    reject(error);
+                }
             });
         });
     }
