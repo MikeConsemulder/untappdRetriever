@@ -19,6 +19,12 @@ app.use(basicAuth({
     authorizeAsync: true
 }))
 
+app.use(function (req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
+});
+
 function authorizer(username, password, cb) {
     //get username and password from .env
     let BasicAuthUsername = process.env.BASIC_AUTH_USERNAME;
