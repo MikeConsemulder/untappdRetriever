@@ -5,6 +5,7 @@ const Retriever = require("./assets/classes/Retriever");
 const basicAuth = require('express-basic-auth');
 const User = require('./assets/classes/User');
 const Checkins = require('./assets/classes/Checkins');
+let RequestHandler = require("./assets/classes/RequestHandler");
 const fs = require('fs');
 let retriever;
 require('dotenv').config();
@@ -63,6 +64,27 @@ router.route('/getbeers').get(function (req, res) {
     getAllInformation(res);
 });
 
+router.route('/authenticateUser').get(function (req, res) {
+
+    if (req.headers.hasOwnProperty('code')) {
+
+        let code = req.headers.code;
+        getToken(code).then(TokenObject => {
+
+            //send the token back
+            if (typeof TokenObject.response.access_token != 'undefined') {
+
+                res.json({ token: TokenObject.response.access_token });
+            } else {
+                res.json({ message: TokenObject });
+            }
+        });
+    } else {
+
+        res.json({ message: 'no code provided' });
+    }
+});
+
 function getAllInformation(res) {
 
     let dataToSend = {};
@@ -99,4 +121,32 @@ function sendDataToClient(res, dataToSend) {
         message: `${username}'s information`,
         data: dataToSend
     });
+}
+
+function getToken(code) {
+
+    const url = constructUrl(code);
+
+    const urlObject = {
+        method: 'GET',
+        url: url
+    }
+    const requestHandler = new RequestHandler(urlObject);
+    return requestHandler.doRequest().then(returnValues => {
+
+        return returnValues;
+    })
+}
+
+function constructUrl(code) {
+
+    const clientId = process.env.UNTAPPD_CLIENT_ID;
+    const clientSecret = process.env.UNTAPPD_CLIENT_SECRET;
+    let url = 'https://untappd.com/oauth/authorize/?';
+    url += `client_id=${clientId}`;
+    url += `&client_secret=${clientSecret}`;
+    url += '&response_type=code';
+    url += '&redirect_url=http://untappd.kingmike.nl/visualize';
+    url += `&code=${code}`;
+    return url;
 }
