@@ -5,6 +5,7 @@ const Retriever = require("./assets/classes/Retriever");
 const basicAuth = require('express-basic-auth');
 const User = require('./assets/classes/User');
 const Checkins = require('./assets/classes/Checkins');
+let RequestHandler = require("./assets/classes/RequestHandler");
 const fs = require('fs');
 let retriever;
 require('dotenv').config();
