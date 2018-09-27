@@ -8,8 +8,10 @@ const Checkins = require('./assets/classes/Checkins');
 let RequestHandler = require("./assets/classes/RequestHandler");
 const fs = require('fs');
 let retriever;
+const cors = require('cors')
 require('dotenv').config();
 
+app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
