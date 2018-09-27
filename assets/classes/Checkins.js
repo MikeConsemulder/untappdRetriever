@@ -50,22 +50,25 @@ module.exports = class Checkins {
 
 	_stripBeerInformation(beersinfo) {
 
-		//console.log(beersinfo);
-		let infoArray = [];
+		/* 
+		If you want to filter some stuff out... you can filter it here.,,, i preffer to have all the information
+		*/
+		// let infoArray = [];
 
-		beersinfo.forEach(beerInfo => {
+		// beersinfo.forEach(beerInfo => {
 
-			infoArray.push({
-				created_at: beerInfo.created_at,
-				checkin_comment: beerInfo.checkin_comment,
-				beerName: beerInfo.beer.beer_name,
-				rating: beerInfo.rating_score,
-				style: beerInfo.beer.beer_style,
-				abv: beerInfo.beer.beer_abv,
-				checkinId: beerInfo.checkin_id
-			});
-		});
+		// 	infoArray.push({
+		// 		created_at: beerInfo.created_at,
+		// 		checkin_comment: beerInfo.checkin_comment,
+		// 		beerName: beerInfo.beer.beer_name,
+		// 		rating: beerInfo.rating_score,
+		// 		style: beerInfo.beer.beer_style,
+		// 		abv: beerInfo.beer.beer_abv,
+		// 		checkinId: beerInfo.checkin_id
+		// 	});
+		// });
 
-		return infoArray;
+		// return infoArray;
+		return beersinfo;
 	}
 }
