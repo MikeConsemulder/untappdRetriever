@@ -1,5 +1,3 @@
-require('dotenv').config();
-
 module.exports = class UrlHandler {
 
     constructor(urlObject) {
@@ -23,7 +21,7 @@ module.exports = class UrlHandler {
     constructRequestUrl(requestObject) {
 
         let url = `${requestObject.baseUrl}/${requestObject.version}/${requestObject.endpoint}?access_token=${requestObject.access_token}`;
-        
+
         if (typeof requestObject.params !== 'undefined') {
 
             let objectKeys = Object.keys(requestObject.params);

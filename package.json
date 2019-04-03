@@ -2,10 +2,12 @@
   "name": "untappdretriever",
   "version": "1.0.0",
   "description": "recieve information about a untappd user",
-  "main": "retriever.js",
+  "main": "start.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node retriever.js"
+    "start": "node ./dist/bundle.js",
+    "build": "webpack --mode development",
+    "nodemon": "nodemon ./dist/bundle.js"
   },
   "repository": {
     "type": "git",
@@ -20,9 +22,17 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
-    "dotenv": "^6.0.0",
     "express": "^4.16.3",
     "express-basic-auth": "^1.1.5",
     "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "dotenv": "^7.0.0",
+    "nodemon": "^1.18.10",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
   }
 }

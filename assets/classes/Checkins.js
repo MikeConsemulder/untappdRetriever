@@ -24,7 +24,7 @@ module.exports = class Checkins {
 			if (this.remainingBeers > 0) {
 
 				await this.getBeerInformation(beerInfo.response.pagination.max_id);
-	
+
 			}
 
 			//combine the arrays
@@ -51,24 +51,23 @@ module.exports = class Checkins {
 	_stripBeerInformation(beersinfo) {
 
 		/* 
-		If you want to filter some stuff out... you can filter it here.,,, i preffer to have all the information
+		If you want to filter some stuff out... you can filter it here.,,
 		*/
-		// let infoArray = [];
+		let infoArray = [];
 
-		// beersinfo.forEach(beerInfo => {
+		beersinfo.forEach(beerInfo => {
 
-		// 	infoArray.push({
-		// 		created_at: beerInfo.created_at,
-		// 		checkin_comment: beerInfo.checkin_comment,
-		// 		beerName: beerInfo.beer.beer_name,
-		// 		rating: beerInfo.rating_score,
-		// 		style: beerInfo.beer.beer_style,
-		// 		abv: beerInfo.beer.beer_abv,
-		// 		checkinId: beerInfo.checkin_id
-		// 	});
-		// });
+			infoArray.push({
+				created_at: beerInfo.created_at,
+				checkin_comment: beerInfo.checkin_comment,
+				beerName: beerInfo.beer.beer_name,
+				rating: beerInfo.rating_score,
+				style: beerInfo.beer.beer_style,
+				abv: beerInfo.beer.beer_abv,
+				checkinId: beerInfo.checkin_id
+			});
+		});
 
-		// return infoArray;
-		return beersinfo;
+		return infoArray;
 	}
 }
