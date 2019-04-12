@@ -1,0 +1,2538 @@
+{
+    "data": [
+        {
+            "checkinData": {
+                "created_at": "Thu, 11 Apr 2019 15:58:03 +0000",
+                "checkin_comment": "Pre boulders etuuhhh",
+                "rating_score": 4.25,
+                "checkin_id": 734854443,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_04_11/bd2458e3532100e296e9051e6f39bd51_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "One-Eyed Goat",
+                "beer_style": "IPA - Imperial / Double",
+                "beer_abv": 8.8
+            },
+            "venueData": {
+                "venue_name": "Brouwerij Het Veem"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Mon, 08 Apr 2019 18:42:19 +0000",
+                "checkin_comment": "Sick snelle burger!!!",
+                "rating_score": 3.25,
+                "checkin_id": 734150301,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_04_08/41efe1ceab4a38ddbbbccd8aa93d8637_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "1664",
+                "beer_style": "Lager - Euro",
+                "beer_abv": 5.5
+            },
+            "venueData": {
+                "venue_name": "Disneyland® Paris"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 06 Apr 2019 11:48:14 +0000",
+                "checkin_comment": "Soooo loneeellyyyy HOTSAA op naar Disney",
+                "rating_score": 4.25,
+                "checkin_id": 732798736,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_04_06/f2b36e1d0f0965b30e6f58dd1694e073_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Kasteel Rouge",
+                "beer_style": "Fruit Beer",
+                "beer_abv": 8
+            },
+            "venueData": {
+                "venue_name": "Le Saint Clair"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 05 Apr 2019 22:09:39 +0000",
+                "checkin_comment": "Hatsaaa weinig stratum Challenge",
+                "rating_score": 3,
+                "checkin_id": 732494611,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_04_05/021a287544db22641efc5730e626fdc2_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Silly Saison",
+                "beer_style": "Saison / Farmhouse Ale",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 05 Apr 2019 20:14:45 +0000",
+                "checkin_comment": "Love death robots!",
+                "rating_score": 3.75,
+                "checkin_id": 732405796,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_04_05/537beca865b08d4161605cc738d7fb58_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Ninkasi Triple",
+                "beer_style": "Belgian Tripel",
+                "beer_abv": 8.4
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 05 Apr 2019 19:09:15 +0000",
+                "checkin_comment": "Kevin is een mietje",
+                "rating_score": 4,
+                "checkin_id": 732354625,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_04_05/e3b67368fc4e985b90b7fbb80602e692_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Vagabond Pale Ale",
+                "beer_style": "Gluten-Free",
+                "beer_abv": 4.5
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 02 Apr 2019 18:48:03 +0000",
+                "checkin_comment": "Voorbereiding bieravond!!!!",
+                "rating_score": 3.75,
+                "checkin_id": 731412131,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_04_02/f16626b07421461b30c3a4a8d0328875_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "IPA",
+                "beer_style": "IPA - American",
+                "beer_abv": 6.2
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 30 Mar 2019 21:36:09 +0000",
+                "checkin_comment": ".....",
+                "rating_score": 3.75,
+                "checkin_id": 730370469,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_30/7caecb9614602d35228ab82c962c22c0_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Imparable",
+                "beer_style": "IPA - American",
+                "beer_abv": 6.8
+            },
+            "venueData": {
+                "venue_name": "Letraria - Craft Beer Garden Porto"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 30 Mar 2019 21:00:34 +0000",
+                "checkin_comment": "Laatste serie biertjes!!",
+                "rating_score": 3.75,
+                "checkin_id": 730327395,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_30/4ac895711e03aac43ce53811df5de9cd_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Letra F",
+                "beer_style": "IPA - American",
+                "beer_abv": 6.5
+            },
+            "venueData": {
+                "venue_name": "Letraria - Craft Beer Garden Porto"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 30 Mar 2019 00:13:30 +0000",
+                "checkin_comment": "Biem biem portoooo... IPA? Meh...",
+                "rating_score": 2.25,
+                "checkin_id": 729751423,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_30/f09a7d7317711d05a75d6a7a41ff47e4_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Gyroscope",
+                "beer_style": "IPA - American",
+                "beer_abv": 7
+            },
+            "venueData": {
+                "venue_name": "Armazém da Cerveja - Craft Beer Bar & Shop"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 29 Mar 2019 22:30:01 +0000",
+                "checkin_comment": "Ssiicckkkkk etiketjee",
+                "rating_score": 4.5,
+                "checkin_id": 729655252,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_29/b3d05bf8fe0d38d6f53442368c104657_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Stiggy Pop",
+                "beer_style": "IPA - New England",
+                "beer_abv": 7.3
+            },
+            "venueData": {
+                "venue_name": "Armazém da Cerveja - Craft Beer Bar & Shop"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 29 Mar 2019 22:11:21 +0000",
+                "checkin_comment": "Quattro!!",
+                "rating_score": 3.25,
+                "checkin_id": 729637683,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_29/1f863f540c907111dc5291397fdefd69_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Game of Arms",
+                "beer_style": "Porter - Imperial / Double",
+                "beer_abv": 8.2
+            },
+            "venueData": {
+                "venue_name": "Armazém da Cerveja - Craft Beer Bar & Shop"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 29 Mar 2019 22:03:24 +0000",
+                "checkin_comment": "#3 hatsaflatsaa",
+                "rating_score": 4.25,
+                "checkin_id": 729630264,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_29/b7cc137f3e7da82292f0a6c0745e1cfe_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Heaton Mess",
+                "beer_style": "Sour - Fruited",
+                "beer_abv": 4.5
+            },
+            "venueData": {
+                "venue_name": "Armazém da Cerveja - Craft Beer Bar & Shop"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 29 Mar 2019 21:54:01 +0000",
+                "checkin_comment": "Biem #2",
+                "rating_score": 3.25,
+                "checkin_id": 729621795,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_29/d623029ef19c60dd5dee9adc0215be4e_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Vila Maria",
+                "beer_style": "Blonde Ale",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "Armazém da Cerveja - Craft Beer Bar & Shop"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 29 Mar 2019 21:48:30 +0000",
+                "checkin_comment": "Bierproeverijtjaahhhh lekkahh",
+                "rating_score": 3.75,
+                "checkin_id": 729616863,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_29/a22d001593a86de455df81101f06f5d7_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Magellanic Clouds",
+                "beer_style": "Table Beer",
+                "beer_abv": 3.5
+            },
+            "venueData": {
+                "venue_name": "Armazém da Cerveja - Craft Beer Bar & Shop"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 28 Mar 2019 23:22:32 +0000",
+                "checkin_comment": "Tenminste nog een sicke afterparty",
+                "rating_score": 3.25,
+                "checkin_id": 729212865,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_28/0c97b8a72667ef89e7fe7043645b9f84_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Sagres Branca",
+                "beer_style": "Pilsner - Other",
+                "beer_abv": 5
+            },
+            "venueData": {}
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 28 Mar 2019 21:20:45 +0000",
+                "checkin_comment": "Hotsaa nog eentje voor de  afterpartyy",
+                "rating_score": 2.75,
+                "checkin_id": 729143781,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_28/81589b9c6f30f95d3043c067c50666f2_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Adamanteia",
+                "beer_style": "Witbier",
+                "beer_abv": 4.5
+            },
+            "venueData": {
+                "venue_name": "Catraio Craft Beer Shop"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 28 Mar 2019 20:44:27 +0000",
+                "checkin_comment": "Hatsaaa portoooooo jajajaja",
+                "rating_score": 3.75,
+                "checkin_id": 729125936,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_28/dfbbd4601f92203b137b329041875a09_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "I Am Jack‘s Springlike Sense of Humor",
+                "beer_style": "IPA - Belgian",
+                "beer_abv": 6.2
+            },
+            "venueData": {
+                "venue_name": "Catraio Craft Beer Shop"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 28 Mar 2019 17:39:34 +0000",
+                "checkin_comment": "Hatsaaa dagje 2 conferentie!!!",
+                "rating_score": 3,
+                "checkin_id": 729053543,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_28/95ddf4f661ed050c83fe770c9b247b44_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Dia Lager",
+                "beer_style": "Lager - Euro",
+                "beer_abv": 4.8
+            },
+            "venueData": {}
+        },
+        {
+            "checkinData": {
+                "created_at": "Wed, 27 Mar 2019 21:26:01 +0000",
+                "checkin_comment": "Oooo mr bier",
+                "rating_score": 3.75,
+                "checkin_id": 728841782,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_27/54ef4181f0cdd0ff8d0eac3539c43af1_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Baptist Wit / Blanche",
+                "beer_style": "Witbier",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "Gulden Draak BierHuis - Porto"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Wed, 27 Mar 2019 20:26:32 +0000",
+                "checkin_comment": "Workshop dag!!! Biem",
+                "rating_score": 4.25,
+                "checkin_id": 728819715,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_27/26fc47cd2bfc1959a44b847270bf9da1_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Hazy Sunrise",
+                "beer_style": "IPA - New England",
+                "beer_abv": 7.1
+            },
+            "venueData": {
+                "venue_name": "Gulden Draak BierHuis - Porto"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 26 Mar 2019 13:39:23 +0000",
+                "checkin_comment": "Canabiisseeeerr?",
+                "rating_score": 3,
+                "checkin_id": 728501512,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_26/f1692b70ca65966d7ef577395cfc548e_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Bob Barley",
+                "beer_style": "Other",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "Fábrica de Cervejas Portuense"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 26 Mar 2019 13:01:58 +0000",
+                "checkin_comment": "Hotsaa Porto!!",
+                "rating_score": 3.75,
+                "checkin_id": 728499487,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_26/4975ec16116c965220cf1df5ff88b88f_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Nortada India Pale Ale",
+                "beer_style": "IPA - American",
+                "beer_abv": 6
+            },
+            "venueData": {
+                "venue_name": "Fábrica de Cervejas Portuense"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Mon, 25 Mar 2019 16:10:27 +0000",
+                "checkin_comment": "Lekker lachen vandaag!!!!",
+                "rating_score": 3.5,
+                "checkin_id": 728298153,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_25/dc83713d3c1740fd68f01f8a708cd2b9_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Bloesem Blond",
+                "beer_style": "Blonde Ale - Belgian Blonde / Golden",
+                "beer_abv": 6.2
+            },
+            "venueData": {
+                "venue_name": "Loetje Oost"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 22 Mar 2019 20:37:30 +0000",
+                "checkin_comment": "Hatsaaa 2 weken 2dagen sober",
+                "rating_score": 3.25,
+                "checkin_id": 726669903,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_22/df9eaee5ecbce46e6a725aa8fe5c8112_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Het Witte Kasteel",
+                "beer_style": "Belgian Tripel",
+                "beer_abv": 8
+            },
+            "venueData": {
+                "venue_name": "RAW"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 16 Mar 2019 20:08:02 +0000",
+                "checkin_comment": "Bob Mike hatsaaa",
+                "rating_score": 3,
+                "checkin_id": 724458570,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_03_16/5e91bd08d086064bdbebaa3575e989f3_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Playground Non Alcoholic IPA",
+                "beer_style": "Non-Alcoholic Beer",
+                "beer_abv": 0.5
+            },
+            "venueData": {
+                "venue_name": "Beers & Barrels at the Harbour"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 24 Feb 2019 16:33:29 +0000",
+                "checkin_comment": "Hotsaa cooking fever!",
+                "rating_score": 3.75,
+                "checkin_id": 716665421,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_02_24/1c5db5c69ee4fd125aca7b6433bbfafc_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Pump Up The Jam",
+                "beer_style": "Pale Ale - American",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 24 Feb 2019 14:44:43 +0000",
+                "checkin_comment": "Precies goed zo!!",
+                "rating_score": 4.25,
+                "checkin_id": 716634835,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_02_24/81f9c0ae0b0aab46a83ccbb9279c0f69_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Medicine",
+                "beer_style": "IPA - Imperial / Double New England",
+                "beer_abv": 10.5
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 23 Feb 2019 18:55:25 +0000",
+                "checkin_comment": "Ejooo februari party boyd",
+                "rating_score": 3,
+                "checkin_id": 716009830,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_02_23/472148b2357b5780ca93afcfceb34675_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Strijder bier (Roggetripel)",
+                "beer_style": "Belgian Tripel",
+                "beer_abv": 8
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 23 Feb 2019 15:05:08 +0000",
+                "checkin_comment": "Hotsaa . Zonnetje",
+                "rating_score": 4,
+                "checkin_id": 715864322,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_02_23/cb82cca3436b5beef9894c2b418c48e3_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Late Shift",
+                "beer_style": "IPA - New England",
+                "beer_abv": 6.5
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 09 Feb 2019 20:02:10 +0000",
+                "checkin_comment": "Stuur door!!!",
+                "rating_score": 3.5,
+                "checkin_id": 710577753,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_02_09/95a4de3b7c402030f8862fc28886625c_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "One in a Melon",
+                "beer_style": "IPA - American",
+                "beer_abv": 7
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 09 Feb 2019 19:06:27 +0000",
+                "checkin_comment": "Kevin. Foto!!",
+                "rating_score": 3.75,
+                "checkin_id": 710520700,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_02_09/37ace0b779ae75322c224521c9b3548b_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "The Mango Beer",
+                "beer_style": "IPA - American",
+                "beer_abv": 7
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 09 Feb 2019 18:15:42 +0000",
+                "checkin_comment": "Mandarijn wollaahh",
+                "rating_score": 3.75,
+                "checkin_id": 710476923,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_02_09/09011aa1b04b0f3cd4024da1bbeca6ff_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Tangerine Space Machine",
+                "beer_style": "IPA - New England",
+                "beer_abv": 6.8
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 09 Feb 2019 17:29:52 +0000",
+                "checkin_comment": "Hatsaaaaa",
+                "rating_score": 4,
+                "checkin_id": 710444619,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_02_09/17a7bc58fcde914476000acb84d737ff_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Hazy Jane",
+                "beer_style": "IPA - New England",
+                "beer_abv": 7.2
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 09 Feb 2019 16:39:36 +0000",
+                "checkin_comment": "Drinkers pub met tha bouyysszzz",
+                "rating_score": 3,
+                "checkin_id": 710417233,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_02_09/6f8d312500e6792af4f6fccb1c495af7_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Gooisch Wit",
+                "beer_style": "Other",
+                "beer_abv": 5.5
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 07 Feb 2019 19:33:56 +0000",
+                "checkin_comment": "Sushi whooaaaytyyyyyyytttttt",
+                "rating_score": 3,
+                "checkin_id": 709585975,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_02_07/56908ea9c08cbfbb86b69a2e0453c6b6_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Sapporo Premium Beer",
+                "beer_style": "Lager - Pale",
+                "beer_abv": 4.7
+            },
+            "venueData": {
+                "venue_name": "Yakitori & The Sushi's"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Wed, 06 Feb 2019 20:45:53 +0000",
+                "checkin_comment": "Boulderbiem!!",
+                "rating_score": 3.75,
+                "checkin_id": 709365950,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_02_06/e5e1d65dae6d73f1a271fd5e7f8ce432_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Triple Trouble",
+                "beer_style": "Belgian Tripel",
+                "beer_abv": 8.5
+            },
+            "venueData": {
+                "venue_name": "Monk Bouldergym"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 26 Jan 2019 16:41:49 +0000",
+                "checkin_comment": "Boulderen in Utrecht!!",
+                "rating_score": 3.5,
+                "checkin_id": 705121952,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_01_26/b3b36889ddb20667afcf2750f21c6c13_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Pronck Witbier",
+                "beer_style": "Witbier",
+                "beer_abv": 4.4
+            },
+            "venueData": {
+                "venue_name": "Boulderhal Energiehaven"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 26 Jan 2019 16:00:00 +0000",
+                "checkin_comment": "Boulderen in Utrecht",
+                "rating_score": 4,
+                "checkin_id": 705104365,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_01_26/5bf8cdeed95a5849716fdf8587830fbe_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Peach Squeezer",
+                "beer_style": "Pale Wheat Ale - American",
+                "beer_abv": 4
+            },
+            "venueData": {
+                "venue_name": "Boulderhal Energiehaven"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 25 Jan 2019 20:35:16 +0000",
+                "checkin_comment": "Jeej",
+                "rating_score": 3,
+                "checkin_id": 704677397,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_01_25/82363173a5423957381193a8ecd3bd04_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Heeren Van Eynthoven",
+                "beer_style": "Belgian Tripel",
+                "beer_abv": 9
+            },
+            "venueData": {
+                "venue_name": "STADSBROUWERIJ EINDHOVEN"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 25 Jan 2019 19:12:23 +0000",
+                "checkin_comment": "Jeej",
+                "rating_score": 3,
+                "checkin_id": 704626615,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_01_25/3d28185bde95b8e34282fb0ba4e2b2e2_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Miss Delicious",
+                "beer_style": "Sour - Gose",
+                "beer_abv": 4.4
+            },
+            "venueData": {
+                "venue_name": "STADSBROUWERIJ EINDHOVEN"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 20 Jan 2019 01:23:46 +0000",
+                "checkin_comment": "Met Lea naar de getvaahh.. maar Lea wil liever Radler\n .. wanne faggot.",
+                "rating_score": 2.5,
+                "checkin_id": 703034666,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_01_20/37fa65108d00c0c8e03a0c55faeb7471_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Skøll Tuborg",
+                "beer_style": "Shandy / Radler",
+                "beer_abv": 6
+            },
+            "venueData": {}
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 19 Jan 2019 21:15:48 +0000",
+                "checkin_comment": "Haatssaaaaa met lea",
+                "rating_score": 3.5,
+                "checkin_id": 702801127,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_01_19/5f3aa42497cb57778034f7840795410d_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Roman Blanche 5.0",
+                "beer_style": "Witbier",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 19 Jan 2019 20:54:36 +0000",
+                "checkin_comment": "Hotsaa zatte Lea",
+                "rating_score": 3,
+                "checkin_id": 702779038,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_01_19/b86757c347bf5e5e3fbfd53bc21cedef_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Watou's Witbier",
+                "beer_style": "Witbier",
+                "beer_abv": 5
+            },
+            "venueData": {}
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 11 Jan 2019 20:36:52 +0000",
+                "checkin_comment": "Jam jam jam . Uit eten met d van erpjes",
+                "rating_score": 3.5,
+                "checkin_id": 699736151,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_01_11/a40cb5b0914251f826c917553e11592e_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Estrella Damm",
+                "beer_style": "Lager - Pale",
+                "beer_abv": 5.4
+            },
+            "venueData": {
+                "venue_name": "Señora Rosa"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 05 Jan 2019 21:10:36 +0000",
+                "checkin_comment": "Raaaggeeee",
+                "rating_score": 3.5,
+                "checkin_id": 698027405,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2019_01_05/bb70156c0533de4f629a24f2f604add2_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Gouden Carolus Christmas / Noël",
+                "beer_style": "Belgian Strong Dark Ale",
+                "beer_abv": 10.5
+            },
+            "venueData": {
+                "venue_name": "Ons Thuis"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 25 Dec 2018 19:27:04 +0000",
+                "checkin_comment": "Jajajaja lekaaahhhh",
+                "rating_score": 3.5,
+                "checkin_id": 692544246,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_25/53a0db3ee7b7a0c94bb429e87ad63e7e_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Tsjeeses",
+                "beer_style": "Winter Ale",
+                "beer_abv": 10
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 22 Dec 2018 16:53:18 +0000",
+                "checkin_comment": "Koren BBQ wollahbbb",
+                "rating_score": 2.75,
+                "checkin_id": 690623451,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_22/f904c8f1d0c2738b4f143c099085af60_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Cass Fresh",
+                "beer_style": "Lager - North American Adjunct",
+                "beer_abv": 4.5
+            },
+            "venueData": {
+                "venue_name": "Kimchi Boulevard"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 21 Dec 2018 22:32:20 +0000",
+                "checkin_comment": "Zweetvingers controllers!.. doe doosje weg",
+                "rating_score": 3.25,
+                "checkin_id": 690247053,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_21/519baacb1b27a2c82319105aaa53c798_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Gouden Carolus Cuvée Van De Keizer Whisky Infused",
+                "beer_style": "Belgian Strong Dark Ale",
+                "beer_abv": 11.7
+            },
+            "venueData": {
+                "venue_name": "Ons Thuis"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 21 Dec 2018 11:54:06 +0000",
+                "checkin_comment": "Hejuejej kerst lunch dinges",
+                "rating_score": 4,
+                "checkin_id": 689989094,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_21/ee6a153337b9068d7933a32d3ed67887_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Last Day Before Retirement",
+                "beer_style": "IPA - New England",
+                "beer_abv": 7.3
+            },
+            "venueData": {
+                "venue_name": "Vershal Het Veem"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 15 Dec 2018 21:47:35 +0000",
+                "checkin_comment": "Scheve Hendrik.. formule e",
+                "rating_score": 3.75,
+                "checkin_id": 688061952,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_15/111e1bfe6062ace4d3f1e0187d30ca66_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Witte Parel",
+                "beer_style": "Witbier",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 15 Dec 2018 20:59:54 +0000",
+                "checkin_comment": "Biem 4-0",
+                "rating_score": 3.75,
+                "checkin_id": 688013518,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_15/9aa0c74a64592b64ce11b242e0013839_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Crowdsurfer",
+                "beer_style": "Pale Wheat Ale - American",
+                "beer_abv": 5.5
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 15 Dec 2018 19:26:49 +0000",
+                "checkin_comment": "Kom op peesjeeveee",
+                "rating_score": 3.75,
+                "checkin_id": 687921004,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_15/3caac42cb40b1db74617e0ee898eb972_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Mosaic Moustache (Black Label)",
+                "beer_style": "IPA - White",
+                "beer_abv": 6.5
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 15 Dec 2018 18:15:27 +0000",
+                "checkin_comment": "Hotsaa gas erop",
+                "rating_score": 3.25,
+                "checkin_id": 687860577,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_15/7f080dda4de1566d1713803c52240004_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Pompelmoose",
+                "beer_style": "Lager - Pale",
+                "beer_abv": 7
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 08 Dec 2018 15:37:23 +0000",
+                "checkin_comment": "Jeej. Stad met Rachel",
+                "rating_score": 3,
+                "checkin_id": 685095796,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_08/a9b238076164588e411f01f9ba9f1141_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Ayinger Urweisse",
+                "beer_style": "Dunkelweizen",
+                "beer_abv": 5.8
+            },
+            "venueData": {
+                "venue_name": "Janz"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 07 Dec 2018 21:42:00 +0000",
+                "checkin_comment": "Team betrayal!!!",
+                "rating_score": 3.25,
+                "checkin_id": 684713904,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_07/e9d66ec8ad140107be97cdd6ca962ded_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Stripbier 2018 Victorie, het bier van Frankenstein",
+                "beer_style": "Sour - Gose",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 07 Dec 2018 20:12:56 +0000",
+                "checkin_comment": "Team chillings",
+                "rating_score": 4.25,
+                "checkin_id": 684651993,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_07/1fe201ec0b3fcc419cce469f1c31d1ca_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Hair In The Mailbox.",
+                "beer_style": "IPA - International",
+                "beer_abv": 6.3
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 02 Dec 2018 18:27:18 +0000",
+                "checkin_comment": "Hotsaa",
+                "rating_score": 3,
+                "checkin_id": 683170231,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_02/8a8c57c3811bf10602cc087ac1a6a9cd_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Lunga Maturazione",
+                "beer_style": "Blonde Ale",
+                "beer_abv": 7
+            },
+            "venueData": {}
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 02 Dec 2018 16:07:29 +0000",
+                "checkin_comment": "Spelletjes met den zuster",
+                "rating_score": 3.25,
+                "checkin_id": 683116198,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_12_02/d45e1473bed15fd474c1e477cefc95a0_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Grand Cru",
+                "beer_style": "Blonde Ale - Belgian Blonde / Golden",
+                "beer_abv": 6.8
+            },
+            "venueData": {
+                "venue_name": "Zaltbommel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 29 Nov 2018 16:58:53 +0000",
+                "checkin_comment": "Prinsjesdag wollaahh",
+                "rating_score": 4.25,
+                "checkin_id": 681528123,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_11_29/d80036e9a5a65e378bddce971a397201_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Barbarella",
+                "beer_style": "Sour - Berliner Weisse",
+                "beer_abv": 6
+            },
+            "venueData": {
+                "venue_name": "StudyPortals"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 23 Nov 2018 15:29:00 +0000",
+                "checkin_comment": "Retro! Hotsa",
+                "rating_score": 3.25,
+                "checkin_id": 679212809,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_11_23/800d523af134dc1ba60e98e19c8f0e3f_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Spice Up Your Life",
+                "beer_style": "IPA - International",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "StudyPortals"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 17 Nov 2018 19:15:39 +0000",
+                "checkin_comment": "Hatsa helldorado!!!",
+                "rating_score": 3.5,
+                "checkin_id": 676919599,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_11_17/9cc2d3ae091b3c9047f8cf528df180d0_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "A Little Sumpin' Sumpin' Ale",
+                "beer_style": "Pale Wheat Ale - American",
+                "beer_abv": 7.5
+            },
+            "venueData": {}
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 16 Nov 2018 12:25:12 +0000",
+                "checkin_comment": "Hackaaaadayyyy",
+                "rating_score": 3.5,
+                "checkin_id": 676194493,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_11_16/880cb3085a320140b5c1a00c82dc09a4_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "It’s A Blond",
+                "beer_style": "Blonde Ale - Belgian Blonde / Golden",
+                "beer_abv": 6
+            },
+            "venueData": {
+                "venue_name": "PopEi"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 02 Nov 2018 11:54:36 +0000",
+                "checkin_comment": "Hackday yyyy!!",
+                "rating_score": 3.75,
+                "checkin_id": 670785149,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_11_02/d13aea21c98719aba1481a3719d05b4e_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "La Trappe Tripel",
+                "beer_style": "Belgian Tripel",
+                "beer_abv": 8
+            },
+            "venueData": {
+                "venue_name": "Blok 63"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 26 Oct 2018 19:14:32 +0000",
+                "checkin_comment": "Red dead redemption 2 met Kevin!!!!",
+                "rating_score": 3.75,
+                "checkin_id": 668247248,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_26/b248d1c2756ae87c4faa9a2104145511_640x640.jpg"
+            },
+            "beerData": {
+                "beer_name": "Kaper",
+                "beer_style": "IPA - American",
+                "beer_abv": 6.4
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 25 Oct 2018 17:14:39 +0000",
+                "checkin_comment": "Wjjoo Rundfunk .",
+                "rating_score": 3.75,
+                "checkin_id": 667821732,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_25/c70a4bf87aab72d93cfbff6545e4193f_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "O.P.A. (Ozzie Pale Ale)",
+                "beer_style": "Pale Ale - Australian",
+                "beer_abv": 5.5
+            },
+            "venueData": {
+                "venue_name": "Anvers Brasserie & Biercafé"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 25 Oct 2018 16:56:24 +0000",
+                "checkin_comment": "Pre Rundfunk eyooo",
+                "rating_score": 3.5,
+                "checkin_id": 667816832,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_25/e31f5ea2a8e04e63a43b1ff72684f55b_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "All Day IPA",
+                "beer_style": "IPA - Session / India Session Ale",
+                "beer_abv": 4.7
+            },
+            "venueData": {
+                "venue_name": "Anvers Brasserie & Biercafé"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Wed, 24 Oct 2018 18:14:14 +0000",
+                "checkin_comment": "A Royale with cheese!",
+                "rating_score": 4.25,
+                "checkin_id": 667569861,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_24/9482cc00e0b2806c655156948b761efb_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "FF Lekker Met Je Bek In Het Zonnetje",
+                "beer_style": "IPA - Session / India Session Ale",
+                "beer_abv": 3.6
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 19 Oct 2018 21:23:59 +0000",
+                "checkin_comment": "Hejej. Bieren met Kevin",
+                "rating_score": 3.5,
+                "checkin_id": 665577779,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_19/072978dc2167fe4d0ddfc3b4fe62b31a_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Żywiec",
+                "beer_style": "Lager - Pale",
+                "beer_abv": 5.6
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 18 Oct 2018 16:55:21 +0000",
+                "checkin_comment": "Pre actieve ledendiner!",
+                "rating_score": 3.5,
+                "checkin_id": 665031346,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_18/2eb5fb30c4153f8d5f4f6cc0af00b43e_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Formidabel",
+                "beer_style": "Blonde Ale - Belgian Blonde / Golden",
+                "beer_abv": 5.5
+            },
+            "venueData": {
+                "venue_name": "Grand Café Centraal Eindhoven"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 18 Oct 2018 16:19:36 +0000",
+                "checkin_comment": "Pre-actieve ledendiner!",
+                "rating_score": 3.75,
+                "checkin_id": 665022688,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_18/1770dcb1f9b141e33aeb73896fcec5ae_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Corsendonk Blanche",
+                "beer_style": "Witbier",
+                "beer_abv": 4.8
+            },
+            "venueData": {
+                "venue_name": "Grand Café Centraal Eindhoven"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Wed, 17 Oct 2018 17:51:55 +0000",
+                "checkin_comment": "2 jaar over datum. Morgen ziek. Hots",
+                "rating_score": 2.75,
+                "checkin_id": 664770763,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_17/b7464c08d3184a3a337823421bb0c9bf_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Pedavena Speciale",
+                "beer_style": "Specialty Grain",
+                "beer_abv": 5.9
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 16 Oct 2018 19:06:42 +0000",
+                "checkin_comment": "Proost, Simon!",
+                "rating_score": 3.25,
+                "checkin_id": 664546406,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_16/56ad9636c307ac91e69a828d21bce2b2_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Brouwers IPA",
+                "beer_style": "IPA - International",
+                "beer_abv": 6
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 14 Oct 2018 15:03:43 +0000",
+                "checkin_comment": "Dakje schuurtje eyooo",
+                "rating_score": 3.25,
+                "checkin_id": 663907901,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_14/00033e9547e71a910022b9c0f2495713_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Buffalo Bitter",
+                "beer_style": "Belgian Strong Golden Ale",
+                "beer_abv": 8
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 14 Oct 2018 10:39:34 +0000",
+                "checkin_comment": "Vraag en aanbod. Ken je dat?",
+                "rating_score": 3.25,
+                "checkin_id": 663856683,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_14/585f26121653bddbfbedcd9132a7cdb5_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Brugs Witbier / Blanche de Bruges",
+                "beer_style": "Witbier",
+                "beer_abv": 4.8
+            },
+            "venueData": {
+                "venue_name": "De Post"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 13 Oct 2018 20:03:47 +0000",
+                "checkin_comment": "Hop hop hop puissance",
+                "rating_score": 3.5,
+                "checkin_id": 663431517,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_13/48055dd5d404a489e168af984bf93bc9_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Hopus",
+                "beer_style": "Belgian Strong Golden Ale",
+                "beer_abv": 8.3
+            },
+            "venueData": {
+                "venue_name": "Den Bengel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 13 Oct 2018 19:04:57 +0000",
+                "checkin_comment": "Hotsa banana run after",
+                "rating_score": 3.5,
+                "checkin_id": 663363160,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_13/3f0c13acd9971208cc4cd5895fbe94ab_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Tripel d'Anvers",
+                "beer_style": "Belgian Tripel",
+                "beer_abv": 8
+            },
+            "venueData": {
+                "venue_name": "Den Bengel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 13 Oct 2018 18:37:38 +0000",
+                "checkin_comment": "Banana run huejejej",
+                "rating_score": 3.75,
+                "checkin_id": 663332030,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_13/4acf719ebbc3718d96e30c19e87e91dc_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Antigoon",
+                "beer_style": "Pale Ale - Belgian",
+                "beer_abv": 7
+            },
+            "venueData": {
+                "venue_name": "Den Bengel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 04 Oct 2018 19:03:51 +0000",
+                "checkin_comment": "Pre hackday laptop leegtjoepe",
+                "rating_score": 3.75,
+                "checkin_id": 659503255,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_10_04/c811e5e121d3524ab5f93f89c22bb346_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Préaris IPA - No Hops No Glory",
+                "beer_style": "IPA - Belgian",
+                "beer_abv": 6.7
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 30 Sep 2018 14:07:47 +0000",
+                "checkin_comment": "Kascontrole esmc!!",
+                "rating_score": 3.25,
+                "checkin_id": 658329369,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_09_30/8cf145762b5a13a426e9364b40ae9b7e_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Ongefilterd Pilsener",
+                "beer_style": "Pilsner - Other",
+                "beer_abv": 5.2
+            },
+            "venueData": {}
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 28 Sep 2018 10:53:22 +0000",
+                "checkin_comment": "Lekaaahh lunchuh",
+                "rating_score": 4,
+                "checkin_id": 656944617,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_09_28/49e2a24df9f3db64f8e9bd07ce0eee59_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Beerze Brave 7.5",
+                "beer_style": "Blonde Ale - Belgian Blonde / Golden",
+                "beer_abv": 7.5
+            },
+            "venueData": {
+                "venue_name": "Grand Café De Stip"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 27 Sep 2018 16:30:33 +0000",
+                "checkin_comment": "666!!!!!",
+                "rating_score": 4.25,
+                "checkin_id": 656654401,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_09_27/b5983f51aa3cb23328cd4d93e88b21f1_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Satan Gold",
+                "beer_style": "Blonde Ale - Belgian Blonde / Golden",
+                "beer_abv": 8
+            },
+            "venueData": {
+                "venue_name": "StudyPortals"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 15 Sep 2018 20:51:15 +0000",
+                "checkin_comment": "Hopaaaaaaá 0-7",
+                "rating_score": 3.75,
+                "checkin_id": 652189203,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_09_15/80802ed1412f7a9c4ea2bd6457bc525c_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "2 Can IPA",
+                "beer_style": "IPA - American",
+                "beer_abv": 6.9
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 08 Sep 2018 18:54:01 +0000",
+                "checkin_comment": "Tripoloskiiiiii",
+                "rating_score": 3.25,
+                "checkin_id": 649366274,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_09_08/fbd5ebd6801b8a41c8120c2c823d29d3_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Tyskie Gronie",
+                "beer_style": "Lager - Pale",
+                "beer_abv": 5.2
+            },
+            "venueData": {}
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 06 Sep 2018 16:35:55 +0000",
+                "checkin_comment": "Heuekeke pre boulders",
+                "rating_score": 4,
+                "checkin_id": 648291931,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_09_06/22335829b2459ff6b05628620b03c24d_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Cosmik Debris",
+                "beer_style": "IPA - Imperial / Double",
+                "beer_abv": 8
+            },
+            "venueData": {
+                "venue_name": "Vershal Het Veem"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 01 Sep 2018 20:34:05 +0000",
+                "checkin_comment": "Iota tangleeeeeeeeeeeee vieuaalliisatioonnn",
+                "rating_score": 3,
+                "checkin_id": 646496052,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_09_01/7594dfddaec2be4ddb320957859b44dd_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Lost In Spice",
+                "beer_style": "Spiced / Herbed Beer",
+                "beer_abv": 5.2
+            },
+            "venueData": {
+                "venue_name": "Belmondo"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 01 Sep 2018 19:20:45 +0000",
+                "checkin_comment": "Kevin2Daagse biem",
+                "rating_score": 3.5,
+                "checkin_id": 646414159,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_09_01/42635bcc2f5dd825d83aac3cb266ff24_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Avec Les Bons Voeux",
+                "beer_style": "Saison / Farmhouse Ale",
+                "beer_abv": 9.5
+            },
+            "venueData": {
+                "venue_name": "Belmondo"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 01 Sep 2018 16:00:34 +0000",
+                "checkin_comment": "Kevin2Daagse heuejeje",
+                "rating_score": 3.25,
+                "checkin_id": 646236873,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_09_01/e296e828811e4f21b0e0eb3df708388a_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Hoegaarden Wit / Blanche",
+                "beer_style": "Witbier",
+                "beer_abv": 4.9
+            },
+            "venueData": {
+                "venue_name": "Rosario Antwerpen"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 01 Sep 2018 00:08:57 +0000",
+                "checkin_comment": "Kevin2Daagse heejaaoohhh",
+                "rating_score": 3.5,
+                "checkin_id": 645949142,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_09_01/7de7d3f489ff704473e512745e7becb0_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Zinnebir",
+                "beer_style": "Pale Ale - Belgian",
+                "beer_abv": 5.8
+            },
+            "venueData": {
+                "venue_name": "Paters Vaetje"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 31 Aug 2018 23:09:54 +0000",
+                "checkin_comment": "Kevin2Daagse helele.ahdfhdj",
+                "rating_score": 3,
+                "checkin_id": 645899698,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_31/7e2ff8ea247d570ee8e2231179af62ae_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Vedett Extra Session IPA",
+                "beer_style": "IPA - Session / India Session Ale",
+                "beer_abv": 2.7
+            },
+            "venueData": {
+                "venue_name": "Paters Vaetje"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 31 Aug 2018 22:16:28 +0000",
+                "checkin_comment": "Kevin2Daagse hotsaaaa",
+                "rating_score": 3.25,
+                "checkin_id": 645856099,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_31/87c2a2cee0042eb248c2cce607f6a579_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Taras Boulba",
+                "beer_style": "Blonde Ale - Belgian Blonde / Golden",
+                "beer_abv": 4.5
+            },
+            "venueData": {
+                "venue_name": "Paters Vaetje"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 31 Aug 2018 21:09:31 +0000",
+                "checkin_comment": "Jajajaj dag 1/2 Kevin2Daagse",
+                "rating_score": 3.75,
+                "checkin_id": 645804559,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_31/c74fc2cb82b8410edd8a00b8de08802b_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Grosse Bertha",
+                "beer_style": "Hefeweizen",
+                "beer_abv": 7
+            },
+            "venueData": {
+                "venue_name": "Paters Vaetje"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 30 Aug 2018 20:00:54 +0000",
+                "checkin_comment": "After Europa park. Woepdiedoe",
+                "rating_score": 2,
+                "checkin_id": 645320893,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_30/0df247a4154b9d2bce00c4f2e090137f_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Hieronymus Hefeweizen",
+                "beer_style": "Hefeweizen",
+                "beer_abv": 5.1
+            },
+            "venueData": {
+                "venue_name": "Hotel Mythos"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 30 Aug 2018 18:59:45 +0000",
+                "checkin_comment": "After Europa park",
+                "rating_score": 2.75,
+                "checkin_id": 645297334,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_30/08edb6f969dc0f2900c4899af2f60bfd_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Hieronymus Unfiltriert Naturtrüb",
+                "beer_style": "Pilsner - Other",
+                "beer_abv": 4.8
+            },
+            "venueData": {
+                "venue_name": "Hotel Mythos"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 30 Aug 2018 11:33:26 +0000",
+                "checkin_comment": "Europa Park biem!",
+                "rating_score": 3.25,
+                "checkin_id": 645222139,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_30/4b6e587f92f005b9fa87ff9146195f33_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Dortmunder Kronen Pilsener",
+                "beer_style": "Pilsner - German",
+                "beer_abv": 4.8
+            },
+            "venueData": {
+                "venue_name": "Themenbereich Niederlande"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Wed, 29 Aug 2018 15:55:59 +0000",
+                "checkin_comment": "Jajajaj after slot neuschwanstein",
+                "rating_score": 3.5,
+                "checkin_id": 644966618,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_29/0be9b5ed908360bb70b4aebc98995c6c_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Hofbräu Original",
+                "beer_style": "Lager - Helles",
+                "beer_abv": 5.1
+            },
+            "venueData": {
+                "venue_name": "Schlossrestaurant Neuschwanstein"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Wed, 29 Aug 2018 13:44:49 +0000",
+                "checkin_comment": "Slot neuschwanstein dinges",
+                "rating_score": 3.5,
+                "checkin_id": 644953569,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_29/0f1960bf9d20d0b37726707cd515b773_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Hofbräu Münchner Weisse / Münchner Kindl / Hefe Weizen",
+                "beer_style": "Hefeweizen",
+                "beer_abv": 5.1
+            },
+            "venueData": {
+                "venue_name": "Schlossrestaurant Neuschwanstein"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Wed, 29 Aug 2018 13:13:50 +0000",
+                "checkin_comment": "Slot neuswansentraeistein",
+                "rating_score": 3.25,
+                "checkin_id": 644951409,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_29/8890277a210952d06ce51c2eceddf546_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Hofbräu Schwarze Weisse / Dark Wheat / Hefeweizen Dunkel",
+                "beer_style": "Dunkelweizen",
+                "beer_abv": 5.4
+            },
+            "venueData": {
+                "venue_name": "Schlossrestaurant Neuschwanstein"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 28 Aug 2018 17:20:31 +0000",
+                "checkin_comment": "After area47 sicke mc teleurstelling park",
+                "rating_score": 3.25,
+                "checkin_id": 644732625,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_28/7d1a6b0467ea87d870ef973f260b3a3d_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Pfiff Pils",
+                "beer_style": "Pilsner - German",
+                "beer_abv": 4.7
+            },
+            "venueData": {
+                "venue_name": "Pizzeria Milano"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Mon, 27 Aug 2018 19:41:31 +0000",
+                "checkin_comment": "After boulders Innsbruck",
+                "rating_score": 3.25,
+                "checkin_id": 644537313,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_27/c5afc3418846111acbdca8aa18c8a930_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Wiener Original",
+                "beer_style": "Lager - Vienna",
+                "beer_abv": 5.3
+            },
+            "venueData": {
+                "venue_name": "H Rudolf-Greinz-Straße"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 26 Aug 2018 18:40:14 +0000",
+                "checkin_comment": "Heujjooooo Innsbruck!",
+                "rating_score": 3.25,
+                "checkin_id": 644174616,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_26/2385e08f2f1dab1bb513bb78590c3da1_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Puntigamer Panther",
+                "beer_style": "Lager - Helles",
+                "beer_abv": 5.2
+            },
+            "venueData": {
+                "venue_name": "Goldener Adler"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 25 Aug 2018 18:00:28 +0000",
+                "checkin_comment": "Lekker regen!!! Mooie grotjes",
+                "rating_score": 3,
+                "checkin_id": 643429117,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_25/5aad4555dcbf9d668fd9ee67fb94272d_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Benediktiner Hell / Original",
+                "beer_style": "Lager - Helles",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "Gostilna Pri Planincu"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 24 Aug 2018 14:33:37 +0000",
+                "checkin_comment": "Regen meh",
+                "rating_score": 3,
+                "checkin_id": 642661926,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_24/f1b3fca65214cec255e75b8fda305e25_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Laško Zlatorog",
+                "beer_style": "Lager - Euro",
+                "beer_abv": 4.9
+            },
+            "venueData": {
+                "venue_name": "Piškovca Start Adventure Rafting Bled"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Thu, 23 Aug 2018 19:59:21 +0000",
+                "checkin_comment": "Wanne kop",
+                "rating_score": 3,
+                "checkin_id": 642385042,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_23/1b96beea44b5ee2afb1f8ea6f2c79853_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Dock",
+                "beer_style": "Lager - Euro",
+                "beer_abv": 4
+            },
+            "venueData": {
+                "venue_name": "Party Highway"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Wed, 22 Aug 2018 18:19:23 +0000",
+                "checkin_comment": "Pula biem!!!",
+                "rating_score": 2.75,
+                "checkin_id": 642034088,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_22/f269e060a54545e7a8df13febd911bee_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Nikšićko Pivo",
+                "beer_style": "Pilsner - Other",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "\"El Pulari\" mexican"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 21 Aug 2018 10:27:52 +0000",
+                "checkin_comment": "Plitvice meren jeej",
+                "rating_score": 2.75,
+                "checkin_id": 641700626,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_21/0ce915072fe4480f8a6dbc69bf8af2ca_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Karlovačko Pivo / Svijetlo",
+                "beer_style": "Lager - Pale",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "Plitvikca Jazera"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 19 Aug 2018 17:45:23 +0000",
+                "checkin_comment": "Wat een stelletje!",
+                "rating_score": 3.5,
+                "checkin_id": 641138199,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_19/d79f6537c4b395f4ab0130dabb11192a_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Twisted Thistle IPA",
+                "beer_style": "IPA - International",
+                "beer_abv": 5.6
+            },
+            "venueData": {
+                "venue_name": "Harat's Irish Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 19 Aug 2018 16:10:22 +0000",
+                "checkin_comment": "Zagreb biem",
+                "rating_score": 2.75,
+                "checkin_id": 641093181,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_19/50fb145e11dafcdc1bdc1468acbe8858_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Ožujsko Rezano",
+                "beer_style": "Lager - Dark",
+                "beer_abv": 5.9
+            },
+            "venueData": {
+                "venue_name": "Caffe bar Giardino"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 19 Aug 2018 13:11:45 +0000",
+                "checkin_comment": "Zagreb biem",
+                "rating_score": 3.5,
+                "checkin_id": 641046471,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_19/ceeb00959d3804885eff38dab2a7a839_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Ljeto u Zagrebu",
+                "beer_style": "Witbier",
+                "beer_abv": 5.2
+            },
+            "venueData": {
+                "venue_name": "Submarine BBQ"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 19 Aug 2018 12:08:49 +0000",
+                "checkin_comment": "Heuekeke zagreb",
+                "rating_score": 3.25,
+                "checkin_id": 641036421,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_19/2345e47b73c535a9323d10a35e9d751f_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Ožujsko",
+                "beer_style": "Lager - Euro",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "Ljetno kino Gradec"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 19 Aug 2018 11:19:51 +0000",
+                "checkin_comment": "Hotsaaaa kussentje voor de billetjes",
+                "rating_score": 3.25,
+                "checkin_id": 641030099,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_19/f8af84160091dd048572a3f9e6d47db8_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "GRIF New England IPA",
+                "beer_style": "IPA - New England",
+                "beer_abv": 6.1
+            },
+            "venueData": {
+                "venue_name": "Ljetno kino Gradec"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 18 Aug 2018 16:54:10 +0000",
+                "checkin_comment": "Kijk mooi dan",
+                "rating_score": 3.5,
+                "checkin_id": 640388818,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_18/159fe031baa7d803c58e9da6d997f3a8_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Pupa",
+                "beer_style": "Pale Ale - New England",
+                "beer_abv": 4.5
+            },
+            "venueData": {
+                "venue_name": "Craft Room"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 18 Aug 2018 16:31:54 +0000",
+                "checkin_comment": "Tnx Anne!!!!",
+                "rating_score": 3,
+                "checkin_id": 640372892,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_18/b3aa769f3bbd060f0a0038fee99925ad_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "AK-47",
+                "beer_style": "Kvass",
+                "beer_abv": 4.7
+            },
+            "venueData": {
+                "venue_name": "Craft Room"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 18 Aug 2018 16:11:20 +0000",
+                "checkin_comment": "Zagreb!!!! Hejejeej",
+                "rating_score": 3.75,
+                "checkin_id": 640359433,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_18/532f48ba5272f108788c04a5ba7fddae_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Siesta Session",
+                "beer_style": "IPA - Session / India Session Ale",
+                "beer_abv": 4.4
+            },
+            "venueData": {
+                "venue_name": "Craft Room"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Wed, 15 Aug 2018 18:36:12 +0000",
+                "checkin_comment": "Lekkere cubra libre",
+                "rating_score": 3.25,
+                "checkin_id": 639078607,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_15/1b6fb9a5e9dbe9373eb12a0623e8dd4b_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Edelweiss Hefetrüb",
+                "beer_style": "Hefeweizen",
+                "beer_abv": 5.3
+            },
+            "venueData": {
+                "venue_name": "Republik Bistro & Garden"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Wed, 15 Aug 2018 12:12:39 +0000",
+                "checkin_comment": "Bergje hopateeeee",
+                "rating_score": 3.25,
+                "checkin_id": 639011516,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_15/f1eca85d0a75de41063fa9f88d3aea9e_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Soproni Óvatos Duhaj IPA",
+                "beer_style": "IPA - American",
+                "beer_abv": 4.8
+            },
+            "venueData": {
+                "venue_name": "Budavári Palota"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 14 Aug 2018 13:08:32 +0000",
+                "checkin_comment": "Heuekeke Sziget biem",
+                "rating_score": 3.25,
+                "checkin_id": 638728359,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_14/4ad91f540cdce29483dc5839193cd6cf_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Dreher Classic",
+                "beer_style": "Lager - Helles",
+                "beer_abv": 5.2
+            },
+            "venueData": {
+                "venue_name": "Sziget Festival (Sziget Fesztivál)"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 14 Aug 2018 12:11:17 +0000",
+                "checkin_comment": "Huejejej Sziget!!!",
+                "rating_score": 3.75,
+                "checkin_id": 638724310,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_14/3e4c5328e20108eea29fa7c545938826_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Tripla Komlós (2018)",
+                "beer_style": "Lager - Euro",
+                "beer_abv": 4.5
+            },
+            "venueData": {
+                "venue_name": "Sziget Festival (Sziget Fesztivál)"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 14 Aug 2018 11:46:57 +0000",
+                "checkin_comment": "Pre Sziget biatch",
+                "rating_score": 3.5,
+                "checkin_id": 638722506,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_14/496b37a1a72a6eedf682e6fd8ae0452e_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Soproni 1895",
+                "beer_style": "Lager - Helles",
+                "beer_abv": 5.3
+            },
+            "venueData": {
+                "venue_name": "MOL"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Mon, 13 Aug 2018 20:46:00 +0000",
+                "checkin_comment": "Nog eentjjeeeeee",
+                "rating_score": 2,
+                "checkin_id": 638563018,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_13/dcf3f7e2b231c79de1a307c840670ba4_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "India Pale Ale",
+                "beer_style": "IPA - American",
+                "beer_abv": 5.6
+            },
+            "venueData": {
+                "venue_name": "Füge udvar"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Mon, 13 Aug 2018 19:32:23 +0000",
+                "checkin_comment": "Boedapest!!",
+                "rating_score": 2.75,
+                "checkin_id": 638540346,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_13/8cc788671cb51bbfc7ff2157a4f9596e_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Borsodi",
+                "beer_style": "Lager - Pale",
+                "beer_abv": 4.5
+            },
+            "venueData": {
+                "venue_name": "KARAVÁN Budapest - Street Food"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Mon, 13 Aug 2018 18:27:36 +0000",
+                "checkin_comment": "Streetaahh footaahh boedapest",
+                "rating_score": 2.75,
+                "checkin_id": 638521215,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_13/aaa3f84e5e6a99edc09ef8e9f72a8519_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Staropramen Premium / Ležák",
+                "beer_style": "Pilsner - Czech",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "KARAVÁN Budapest - Street Food"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 12 Aug 2018 18:38:28 +0000",
+                "checkin_comment": "Jajajaj dikke pull billla",
+                "rating_score": 3.25,
+                "checkin_id": 638163887,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_12/9935156efcc2ddae8fb6c7222e73aed7_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Lagerbier Hell",
+                "beer_style": "Lager - Helles",
+                "beer_abv": 5.2
+            },
+            "venueData": {
+                "venue_name": "Augustiner Biergarten"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 12 Aug 2018 17:10:48 +0000",
+                "checkin_comment": "München!!!!! Etuuhhhh",
+                "rating_score": 2.75,
+                "checkin_id": 638111593,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_12/f9485b788ae8b9725cce06ebb28f587a_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Hamburgerei Bier",
+                "beer_style": "Lager - Helles",
+                "beer_abv": 5.1
+            },
+            "venueData": {
+                "venue_name": "Hamburgerei"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 12 Aug 2018 14:23:03 +0000",
+                "checkin_comment": "Te vreten en te zuipen",
+                "rating_score": 2.75,
+                "checkin_id": 638048459,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_12/ee30a7c7d6f997ef6667d62ef04de520_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "König Pilsener",
+                "beer_style": "Pilsner - German",
+                "beer_abv": 4.9
+            },
+            "venueData": {
+                "venue_name": "Tivoli Pavilion"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 12 Aug 2018 11:21:55 +0000",
+                "checkin_comment": "Heuekeke München roadtrip alles heeejj",
+                "rating_score": 3.75,
+                "checkin_id": 638013388,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_12/ff34ac2effa4214acb02b3f394d10ae7_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Hefe Weißbier Hell",
+                "beer_style": "Hefeweizen",
+                "beer_abv": 5.4
+            },
+            "venueData": {
+                "venue_name": "Smart Stay Hostel Munich City"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 12 Aug 2018 09:24:15 +0000",
+                "checkin_comment": "Team achter in de bus!!",
+                "rating_score": 3,
+                "checkin_id": 638003953,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_12/78d941246837e8a36cfb144fc0e95066_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Brouwers Pilsener",
+                "beer_style": "Pilsner - Other",
+                "beer_abv": 5
+            },
+            "venueData": {
+                "venue_name": "الطريق الي ليجولاند"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 10 Aug 2018 21:10:36 +0000",
+                "checkin_comment": "Lekkereren boeken",
+                "rating_score": 3,
+                "checkin_id": 636887397,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_10/edb789571534f67ea58b5e472e8aaa15_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Tripel Kanunnik",
+                "beer_style": "Belgian Tripel",
+                "beer_abv": 8.2
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 10 Aug 2018 21:07:52 +0000",
+                "checkin_comment": "Lekkaahh boeken",
+                "rating_score": 3.5,
+                "checkin_id": 636885325,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_10/0f430ac3230b4fadf59f1a5c55c97943_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Kwâkboks",
+                "beer_style": "Lager - Pale",
+                "beer_abv": 5.4
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 10 Aug 2018 16:07:00 +0000",
+                "checkin_comment": "Vakantieeeeeee!!",
+                "rating_score": 3.75,
+                "checkin_id": 636699480,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_10/3eaa0a78985a96ddfddfac4c3f48cd5b_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Punjabi Punch",
+                "beer_style": "IPA - American",
+                "beer_abv": 6
+            },
+            "venueData": {
+                "venue_name": "StudyPortals"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Wed, 08 Aug 2018 18:30:56 +0000",
+                "checkin_comment": "Lol. Nog nooit ingecheckt. Wollaahh",
+                "rating_score": 4,
+                "checkin_id": 635995560,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_08/0ec68cad1fab015455751356c924cc0f_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Pauwel Kwak",
+                "beer_style": "Belgian Strong Golden Ale",
+                "beer_abv": 8.4
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 07 Aug 2018 18:24:26 +0000",
+                "checkin_comment": "Huejejej Santé",
+                "rating_score": 3,
+                "checkin_id": 635685852,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_07/58cb778743b83cce6d1a9c6a4e8959c4_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Grotten Santé",
+                "beer_style": "Brown Ale - Belgian",
+                "beer_abv": 6.5
+            },
+            "venueData": {
+                "venue_name": "Gemeente Zaltbommel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 07 Aug 2018 17:49:58 +0000",
+                "checkin_comment": "Jeeejj. Verjaardag zusje.",
+                "rating_score": 3.75,
+                "checkin_id": 635674609,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_08_07/beb5db8b3268eec83c9d98e2ad456419_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "JPA / Japanese Pale Ale",
+                "beer_style": "Blonde Ale",
+                "beer_abv": 6
+            },
+            "venueData": {
+                "venue_name": "Gemeente Zaltbommel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 29 Jul 2018 11:44:52 +0000",
+                "checkin_comment": "Heuejejej Zeeland!! Miezer!!",
+                "rating_score": 3.25,
+                "checkin_id": 631631117,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_29/e0b2119bb27d5347de70bb8f79151697_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Dutch Bargain SeaWise",
+                "beer_style": "Hefeweizen",
+                "beer_abv": 4.3
+            },
+            "venueData": {
+                "venue_name": "Loods Tien"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 27 Jul 2018 10:52:33 +0000",
+                "checkin_comment": "Heuejejej burgertje !!",
+                "rating_score": 4,
+                "checkin_id": 630247362,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_27/f085361cca0caf3c92b710b4324812f3_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Pentode Passion",
+                "beer_style": "IPA - Session / India Session Ale",
+                "beer_abv": 4.5
+            },
+            "venueData": {
+                "venue_name": "Brouwerij Het Veem"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 24 Jul 2018 16:33:14 +0000",
+                "checkin_comment": "Lorenzoooos voortuin",
+                "rating_score": 2.75,
+                "checkin_id": 629207526,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_24/15fae9fd04c696dd72645b0fec3f84da_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Weizener",
+                "beer_style": "Hefeweizen",
+                "beer_abv": 5.7
+            },
+            "venueData": {
+                "venue_name": "Lorenzo's voortuin"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Tue, 24 Jul 2018 16:21:39 +0000",
+                "checkin_comment": "Heuejejej kom naar boven gaan we daarna naar beneden",
+                "rating_score": 3.75,
+                "checkin_id": 629204667,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_24/86806a32164c22917346524c1c0e97c4_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Saison",
+                "beer_style": "Saison / Farmhouse Ale",
+                "beer_abv": 6.5
+            },
+            "venueData": {
+                "venue_name": "Dat grasveldje langs het ketelhuisplein"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 22 Jul 2018 17:11:15 +0000",
+                "checkin_comment": "Heuejejej BBQ in de zon. Want schaduw is voor plebs",
+                "rating_score": 3.25,
+                "checkin_id": 628532503,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_22/e2899c17f96128248f9de528f77ae04a_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Moinette Blonde",
+                "beer_style": "Belgian Strong Golden Ale",
+                "beer_abv": 8.5
+            },
+            "venueData": {
+                "venue_name": "Lorenzo's voortuin"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 22 Jul 2018 16:29:59 +0000",
+                "checkin_comment": "Sicke BBQ salsa alles!!!",
+                "rating_score": 3.5,
+                "checkin_id": 628512108,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_22/aac9b4a98d92b1e852f324ae0c261662_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Dame Jeanne Brut Sur Lie",
+                "beer_style": "Bière de Champagne / Bière Brut",
+                "beer_abv": 8.5
+            },
+            "venueData": {
+                "venue_name": "Lorenzo's voortuin"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 22 Jul 2018 13:57:47 +0000",
+                "checkin_comment": "Heuejejej F1",
+                "rating_score": 3.75,
+                "checkin_id": 628465170,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_22/10badceb7ee83c62dbd2dec55c996096_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Gulden Draak Calvados Barrel Aged",
+                "beer_style": "Belgian Strong Golden Ale",
+                "beer_abv": 10.5
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 22 Jul 2018 13:24:25 +0000",
+                "checkin_comment": "Zieke guns",
+                "rating_score": 3.25,
+                "checkin_id": 628458072,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_22/09e60115f2b5f5c15a2c2e1bbdd3ff4e_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Saison de Dottignies",
+                "beer_style": "Saison / Farmhouse Ale",
+                "beer_abv": 5.5
+            },
+            "venueData": {
+                "venue_name": "La casa di Mike & Rachel"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Fri, 20 Jul 2018 15:54:41 +0000",
+                "checkin_comment": "Vrijmiboobo obbo",
+                "rating_score": 3.5,
+                "checkin_id": 627145517,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_20/abd00b61bd3f1a34805fe8eddd03e0f3_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Schneider Weisse Original (TAP7)",
+                "beer_style": "Hefeweizen",
+                "beer_abv": 5.4
+            },
+            "venueData": {
+                "venue_name": "StudyPortals"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 15 Jul 2018 16:18:32 +0000",
+                "checkin_comment": "Kut Franse",
+                "rating_score": 3.5,
+                "checkin_id": 625403729,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_15/dd80c28add8f6a874d25f5cf9f87e5fb_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Mein Grünes / Meine Festweisse / Wiesen Edel-Weisse (TAP4)",
+                "beer_style": "Hefeweizen",
+                "beer_abv": 6.2
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 15 Jul 2018 15:42:44 +0000",
+                "checkin_comment": "Woaaha geluk man .. @stevie. WK",
+                "rating_score": 3.25,
+                "checkin_id": 625381433,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_15/e5cd643add1cca7f9849eec687ff79a5_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Year of the Dog",
+                "beer_style": "Pale Ale - American",
+                "beer_abv": 5.5
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 15 Jul 2018 14:56:44 +0000",
+                "checkin_comment": "WK finale!!!",
+                "rating_score": 3.25,
+                "checkin_id": 625357666,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_15/889c7e256d48fcaa6b926fd8b4415b6d_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Luxe Weizen",
+                "beer_style": "Hefeweizen",
+                "beer_abv": 6
+            },
+            "venueData": {
+                "venue_name": "Drinkers Pub"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 14 Jul 2018 21:10:19 +0000",
+                "checkin_comment": "Heuekejj Kevin untappd",
+                "rating_score": 3.25,
+                "checkin_id": 624931032,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_07_14/d7e394a85d421e1283ea9591e1ad1308_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Kerel IPA",
+                "beer_style": "IPA - American",
+                "beer_abv": 4.5
+            },
+            "venueData": {
+                "venue_name": "Ketelhuis"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sun, 24 Jun 2018 10:53:53 +0000",
+                "checkin_comment": "Laatste biertje Dublin.... Of ..niet...",
+                "rating_score": 3.5,
+                "checkin_id": 615872026,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_06_24/f6c61d358233fead96b082958c1a789f_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Chieftain",
+                "beer_style": "IPA - International",
+                "beer_abv": 5.5
+            },
+            "venueData": {
+                "venue_name": "The Auld Dubliner"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 23 Jun 2018 20:45:17 +0000",
+                "checkin_comment": "Dublinooi",
+                "rating_score": 3.25,
+                "checkin_id": 615472877,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_06_23/b916a1700fc1a7ad3986c3796fc62ff2_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Kilkenny",
+                "beer_style": "Red Ale - Irish",
+                "beer_abv": 4.3
+            },
+            "venueData": {
+                "venue_name": "Oliver St John Gogarty"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 23 Jun 2018 20:07:05 +0000",
+                "checkin_comment": "Biem biem biem dublinnnnnnnoo deutschland",
+                "rating_score": 3.25,
+                "checkin_id": 615430893,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_06_23/954e376ba9ba57a5118ae3ff911da456_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "Gogarty's Irish Stout",
+                "beer_style": "Stout - Irish Dry",
+                "beer_abv": 4.5
+            },
+            "venueData": {
+                "venue_name": "Oliver St John Gogarty"
+            }
+        },
+        {
+            "checkinData": {
+                "created_at": "Sat, 23 Jun 2018 19:00:39 +0000",
+                "checkin_comment": "Biem banjo wk alluusss",
+                "rating_score": 3.5,
+                "checkin_id": 615356881,
+                "checkin_picture": "https://untappd.akamaized.net/photos/2018_06_23/aac1289a84d2cabf87d18933307fbfe4_640x640.jpeg"
+            },
+            "beerData": {
+                "beer_name": "O'Hara's Irish Craft Lager",
+                "beer_style": "Lager - Helles",
+                "beer_abv": 4.5
+            },
+            "venueData": {
+                "venue_name": "Oliver St John Gogarty"
+            }
+        }
+    ]
+}
